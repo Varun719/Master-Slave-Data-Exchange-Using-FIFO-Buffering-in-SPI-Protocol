@@ -1,0 +1,2 @@
+# Master-Slave-Data-Exchange-Using-FIFO-Buffering-in-SPI-Protocol
+Designed communication between Master (Memory), SPI Slave, and FIFO using Moore state machine in Verilog HDL. Enabled data transfer from FIFO to Master either directly or via SPI shift register, with Master clock running 10× faster than system clock. Verified functionality with or without state machine using module instantiation in ModelSim-Altera.
